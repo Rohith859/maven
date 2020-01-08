@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my first deployment on tomcat server</h2>
+<h2>This is to artifact uploader</h2>
 </body>
 </html>
